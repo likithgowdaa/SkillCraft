@@ -1,7 +1,7 @@
 def convert_temperature(value, from_unit, to_unit):
     """Convert temperature between Celsius, Fahrenheit, and Kelvin."""
 
-    # Convert input temperature to Celsius
+    # Convert input temperature to celsius
     if from_unit == "C":
         celsius = value
     elif from_unit == "F":
@@ -11,7 +11,7 @@ def convert_temperature(value, from_unit, to_unit):
     else:
         return None
 
-    # Convert Celsius to target unit
+    # Convert celsius to target unit
     if to_unit == "C":
         return celsius
     elif to_unit == "F":
