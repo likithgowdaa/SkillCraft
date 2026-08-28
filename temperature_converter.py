@@ -40,5 +40,3 @@ try:
 except ValueError:
     print("Please enter a valid numerical temperature.")
     
-except ValueError:
-    print("Please enter a valid numerical temperature.")
