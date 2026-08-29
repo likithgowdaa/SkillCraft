@@ -192,3 +192,4 @@ Through these tasks, the following skills were practiced:
 
 Software Development Intern
 SkillCraft Technology
+SDI
