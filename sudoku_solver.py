@@ -78,5 +78,3 @@ print_board(sudoku_board)
 if solve_sudoku(sudoku_board):
     print("\nSolved Sudoku:")
     print_board(sudoku_board)
-else:
-    print("\nNo solution exists for this Sudoku puzzle.")
